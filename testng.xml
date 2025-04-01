@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="API Test Suite">
+	<listeners>
+		<listener class-name="utils.CustomReporter" />
+		<listener class-name="utils.TestListenerAdapter" />
+	</listeners>
+	<test name="API Tests">
+		<packages>
+			<package name="api.products.*" />
+		</packages>
+	</test>
+</suite>

@@ -1,0 +1,7 @@
+  {
+	"title": "Test Product",
+	"price": 13.5,
+	"description": "Test description",
+	"category": "electronics",
+	"image": "http://example.com"
+}
