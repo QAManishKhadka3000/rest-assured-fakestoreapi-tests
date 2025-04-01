@@ -2,9 +2,8 @@
 <suite name="API Test Suite">
 	<listeners>
 		<listener class-name="utils.CustomReporter" />
-		<listener class-name="utils.TestListenerAdapter" />
 	</listeners>
-	<test name="API Tests">
+	<test name="Fake Store API Tests Using Rest Assured">
 		<packages>
 			<package name="api.products.*" />
 		</packages>
