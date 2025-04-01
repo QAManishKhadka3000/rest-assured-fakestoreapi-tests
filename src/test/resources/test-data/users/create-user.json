@@ -1,0 +1,15 @@
+{
+	"email": "test.user@example.com",
+	"username": "test_user",
+	"password": "securepassword123",
+	"name": {
+		"firstname": "John",
+		"lastname": "Doe"
+	},
+	"address": {
+		"city": "New York",
+		"street": "123 Main St",
+		"zipcode": "10001"
+	},
+	"phone": "1-800-123-4567"
+}
