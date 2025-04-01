@@ -30,7 +30,7 @@ Run all tests: mvn test
 Run specific test groups: mvn test -Dgroups=products
 
 ### Dependencies (pom.xml): 
-<dependencies>
+###<dependencies>
     <dependency>
         <groupId>io.rest-assured</groupId>
         <artifactId>rest-assured</artifactId>
