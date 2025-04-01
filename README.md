@@ -30,7 +30,7 @@ Run all tests: mvn test
 Run specific test groups: mvn test -Dgroups=products
 
 ### Dependencies (pom.xml): 
-###<dependencies>
+### <dependencies>
     <dependency>
         <groupId>io.rest-assured</groupId>
         <artifactId>rest-assured</artifactId>
@@ -41,7 +41,7 @@ Run specific test groups: mvn test -Dgroups=products
         <artifactId>testng</artifactId>
         <version>7.8.0</version>
     </dependency>
-</dependencies>
+### </dependencies>
 
 
 ### Contributors 
