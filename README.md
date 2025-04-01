@@ -29,7 +29,7 @@ mvn clean install
 Run all tests: mvn test
 Run specific test groups: mvn test -Dgroups=products
 
-###Dependencies (pom.xml) 
+### Dependencies (pom.xml): 
 <dependencies>
     <dependency>
         <groupId>io.rest-assured</groupId>
@@ -44,11 +44,11 @@ Run specific test groups: mvn test -Dgroups=products
 </dependencies>
 
 
-##Contributors 
-##Manish Khadka
+### Contributors 
+Manish Khadka
 
 
-#This matches:
+### This matches:
 Java 8 requirement from your JRE System Library  
 Package structure shown in the image  
 Maven-based project organization  
